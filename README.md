@@ -53,6 +53,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Radinhtm](https://github.com/Radinhtm)
 - [Mostafa Ebrahimi](https://github.com/Ebrahimi-Mostafa)
 - [Behrooz Gholami 😎](https://github.com/BehroozGh97)
+- [Adel Marzban](https://github.com/adelmarzban)
 - [Mohammad Mahdi Hosseini](https://github.com/Mohammad-Mahdi-Hosseini)
 - [Hesam Omidi :notes:](https://github.com/Tannisam)
 - [Ali sharify](https://github.com/alisharify7)
